@@ -1,5 +1,5 @@
 // Реализовать алгоритм пирамидальной сортировки (HeapSort)
-public class ZD3 {
+public class ZD4 {
     // Реализация пирамидальной сортировки на Java
     public void sort(int arr[]) {
         int n = arr.length;
@@ -60,7 +60,7 @@ public class ZD3 {
         int arr[] = {12, 11, 13, 5, 6, 7};
         int n = arr.length;
 
-        ZD3 ob = new ZD3();
+        ZD4 ob = new ZD4();
         ob.sort(arr);
 
         System.out.println(n);
