@@ -65,7 +65,7 @@ public class ZD3 {
 
         System.out.println(n);
 
-        System.out.println("Sorted array is");
+        System.out.println("Отсортированный массив ");
         printArray(arr);
     }
 }
